@@ -1,1 +1,0 @@
-# iFLYTEK-land-block-extraction-challenge
